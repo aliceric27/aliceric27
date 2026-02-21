@@ -11,6 +11,12 @@
 ###
 
 <div align="left">
+  <img src="https://raw.githubusercontent.com/aliceric27/aliceric27/refs/heads/main/public/claude.png" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/aliceric27/aliceric27/refs/heads/main/public/gemini.png" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/aliceric27/aliceric27/refs/heads/main/public/openai.png" height="30" alt="azure logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
