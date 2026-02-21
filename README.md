@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="130" src="https://i.ibb.co/r2Nsd6xm/discord-fake-avatar-decorations-1771651760307.gif"  />
+  <img height="130" src="https://raw.githubusercontent.com/aliceric27/aliceric27/refs/heads/main/public/avatar.gif"  />
 </div>
 
 ###
